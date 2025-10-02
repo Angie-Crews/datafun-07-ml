@@ -85,7 +85,7 @@ py myfile.py
 ```
 
 ### 09 Know Install vs Import
-**Install** = when outside of python, in your terminal or command prompt; it downloads the package from an index adn puts it in your virtual environment so that python can find later  
+**Install** = when outside of python, in your terminal or command prompt; it downloads the package from an index and puts it in your virtual environment so that python can find later  
      Think: Putting a new tool in your tool box  
      
 **Import** = when inside of your python code; it loads the package into your running program so you can use its functions  
